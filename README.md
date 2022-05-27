@@ -1,5 +1,5 @@
 # quaestio project
-The quaestio project is an single page webapp/online game created with react.js and typescript. It's basically a cardgame about depp questions.
+The quaestio project is an single page webapp/online game created with react.js and typescript. It's basically a cardgame about deep questions.
 
 ## tech stack
 

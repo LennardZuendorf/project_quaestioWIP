@@ -1,29 +1,21 @@
-# project_quaestio
+![project quaestio logo](src/assets/quaestio_logo_long_w.png)
 
-This template should help get you started developing with Vue 3 in Vite.
+# quaestio project
+The quaestio project is a single page webapp/online game created with react.js and typescript. It's basically a cardgame about deep questions.
 
-## Recommended IDE Setup
+## tech stack
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+**Client:** Vue.js (Javascript)
 
-## Customize configuration
+**Database:** Firestore
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+**Hosting:** Firebase
 
-## Project Setup
+## status (production)
 
-```sh
-npm install
-```
+![CodigaScore](https://api.codiga.io/project/33601/score/svg)
+![CodigaCodeGrade](https://api.codiga.io/project/33601/status/svg)
 
-### Compile and Hot-Reload for Development
+## author
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+- [@LennardZuendorf](https://github.com/LennardZuendorf)

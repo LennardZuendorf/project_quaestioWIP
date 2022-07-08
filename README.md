@@ -1,21 +1,29 @@
-# quaestio project
-The quaestio project is an single page webapp/online game created with react.js and typescript. It's basically a cardgame about depp questions.
+# project_quaestio
 
-## tech stack
+This template should help get you started developing with Vue 3 in Vite.
 
-**Client:** React.js (typescript)
+## Recommended IDE Setup
 
-**Database:** Firestore
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-**Hosting:** Firebase
+## Customize configuration
 
-## status (production)
+See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-[![CircleCI](https://circleci.com/gh/LennardZuendorf/project_quaestio/tree/building.svg?style=shield)](https://circleci.com/gh/circleci/circleci-docs)
+## Project Setup
 
-![CodigaScore](https://api.codiga.io/project/33601/score/svg)
-![CodigaCodeGrade](https://api.codiga.io/project/33601/status/svg)
+```sh
+npm install
+```
 
-## author
+### Compile and Hot-Reload for Development
 
-- [@LennardZuendorf](https://github.com/LennardZuendorf)
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
